@@ -1,5 +1,5 @@
 # helloWorld
-see the working demo here - [https://gadpandn.github.io/helloWorld/dist/] 
+see the working demo here - [https://gadpandn.github.io/helloWorld_With_Webpack/dist] 
 
 ##Created to understand webpack build & bundling process.
 rh-pages respository has the bundled js/css file under dist folder.
